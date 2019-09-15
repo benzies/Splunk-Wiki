@@ -92,3 +92,8 @@ master_uri = https://172.17.0.2:8089
 mode = searchhead
 multisite = true
 ```
+
+###### References
+https://docs.splunk.com/Documentation/Splunk/7.3.1/Indexer/Multisitedeploymentoverview
+https://docs.splunk.com/Documentation/Splunk/7.3.1/Indexer/Multisiteconffile
+https://docs.splunk.com/Documentation/Splunk/7.3.1/Indexer/MultisiteCLI
